@@ -1,5 +1,5 @@
-#Repositorio de prueba#
-##Ejemplo de Repositorio en github##
+# Repositorio de prueba #
+## Ejemplo de Repositorio en github ##
 Este es mi primer repositorio **Github**
 	ls -la
 
